@@ -13,7 +13,7 @@ disableKinds = ["taxonomy", "term"]
     { link = { href = "https://rifan.pages.dev/", text = "Main Website" } },
     { linkedin = { href = "https://linkedin.com/in/achmadrifan", text = "My LinkedIn" } },
     { github = { href = "https://github.com/withrifan", text = "GitHub Project" } },
-    { gitlab = { href = "https://gitlab.com/withrifan", text = "Gitlab Project" } },
+    { gitlab = { href = "https://gitlab.com/withrifan", text = "GitLab Project" } },
     { facebook = { href = "https://facebook.com/withrifan", text = "My Facebook" } },
     { instagram = { href = "https://instagram.com/withrifan", text = "My Instagram" } },
   ]
