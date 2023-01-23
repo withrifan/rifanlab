@@ -15,7 +15,7 @@ disableKinds = ["taxonomy", "term"]
     { github = { href = "https://github.com/withrifan", text = "GitHub Project" } },
     { gitlab = { href = "https://gitlab.com/withrifan", text = "GitLab Project" } },
     { facebook = { href = "https://facebook.com/withrifan", text = "My Facebook" } },
-    { instagram = { href = "https://instagram.com/withrifan", text = "My Instagram" } },
+    { instagram = "https://instagram.com/withrifan" },
   ]
 
 [module]
