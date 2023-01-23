@@ -2,25 +2,20 @@ baseURL = "https://rifanlab.my.id/"
 languageCode = "en"
 defaultContentLanguage = "en"
 
-title = "Rif'an Lab"
-copyright = "Copy, _right?_ :thinking_face:"
+title = "Achmad Rif'an"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [author]
-  name = "Achmad Rif'an"
-  headline = "started with Bismillah, finished with Hamdalah"
-  image = "resources\_gen\images\profile.png"
-
   links = [
     { email = { href = "mailto:withrifan@gmail.com", text = "Contact Me" } },
-    { link = { href = "https://rifan.pages.dev/", text = "My Main Website" } },
+    { link = { href = "https://rifan.pages.dev/", text = "Main Website" } },
     { linkedin = { href = "https://linkedin.com/in/achmadrifan", text = "My LinkedIn" } },
-    { github = { href = "https://github.com/in/withrifan", text = "GitHub Project" } },
-    { gitlab = { href = "https://gitlab.com/in/withrifan", text = "Gitlab Project" } },
-    { facebook = { href = "https://linkedin.com/in/withrifan", text = "Facebook" } },
-    { instagram = { href = "https://linkedin.com/in/withrifan", text = "Instagram" } },
+    { github = { href = "https://github.com/withrifan", text = "GitHub Project" } },
+    { gitlab = { href = "https://gitlab.com/withrifan", text = "Gitlab Project" } },
+    { facebook = { href = "https://facebook.com/withrifan", text = "My Facebook" } },
+    { instagram = { href = "https://instagram.com/withrifan", text = "My Instagram" } },
   ]
 
 [module]
