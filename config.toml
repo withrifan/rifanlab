@@ -9,13 +9,13 @@ disableKinds = ["taxonomy", "term"]
 
 [author]
   links = [
-    { email = { href = "mailto:withrifan@gmail.com", text = "Contact Me" } },
+    { email = "mailto:withrifan@gmail.com" },
     { link = { href = "https://rifan.pages.dev/", text = "Main Website" } },
-    { linkedin = { href = "https://linkedin.com/in/achmadrifan", text = "My LinkedIn" } },
-    { github = { href = "https://github.com/withrifan", text = "GitHub Project" } },
-    { gitlab = { href = "https://gitlab.com/withrifan", text = "GitLab Project" } },
-    { facebook = { href = "https://facebook.com/withrifan", text = "My Facebook" } },
-    { instagram = "https://instagram.com/withrifan" },
+    { linkedin =  "https://linkedin.com/in/achmadrifan" },
+    { github = "https://github.com/withrifan" },
+    { gitlab = "https://gitlab.com/withrifan" },
+    { facebook = "https://facebook.com/withrifan" },
+    { instagram = "https://instagram.com/withrifan" }
   ]
 
 [module]
