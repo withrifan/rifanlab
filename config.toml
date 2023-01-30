@@ -9,13 +9,16 @@ disableKinds = ["taxonomy", "term"]
 
 [author]
   links = [
-    { href = { href = "https://rifan.pages.dev/", text = "Rif'an Pages", title = "Main Website"} },
+    { href = { href = "https://rifan.pages.dev/", text = "Rif'an Pages" } },
     { href = { href = "mailto:withrifan@gmail.com", text = "Mail to" },
-    { linkedin =  "https://linkedin.com/in/achmadrifan" },
-    { github = "https://github.com/withrifan" },
-    { gitlab = "https://gitlab.com/withrifan" },
-    { facebook = "https://facebook.com/withrifan" },
-    { instagram = "https://instagram.com/withrifan" }
+    { href = { href =  "https://linkedin.com/in/achmadrifan", text = "LinkedIn" } },
+    { href = { href = "https://hackerone.com/ptr00x", text = "HackerOne" } },
+    { href = { href = "https://app.hackthebox.com/profile/344647", text = "Hack The Box" } },
+    { href = { href = "https://tryhackme.com/p/ptr00x", text = "TryHackMe" } },
+    { href = { href ="https://github.com/withrifan", text = "GitHub" } },
+    { href = { href = "https://gitlab.com/withrifan", text = "GitLab" } },
+    { facebook = "https://facebook.com/withrifan", text = "Facebook" } },
+    { instagram = "https://instagram.com/withrifan", text = "Instagram" } }
   ]
 
 [module]
