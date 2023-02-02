@@ -10,6 +10,7 @@ disableKinds = ["taxonomy", "term"]
 [author]
   links = [
     { href = { href = "https://rifan.pages.dev/", text = "Rif'an Pages" } },
+    { href = { href = "https://trakteer.id/rifanpages", text = "Support Me" } },
     { href = { href = "mailto:withrifan@gmail.com", text = "Mail to" } },
     { href = { href =  "https://linkedin.com/in/achmadrifan", text = "LinkedIn" } },
     { href = { href = "https://hackerone.com/ptr00x", text = "HackerOne" } },
